@@ -1,6 +1,6 @@
 ## Hi 👋
 
-🙋 My name is Mikołaj. I'm a student at [Wrocław University of Science](https://pwr.edu.pl/) and Technology and Mobile Developer at Solvro [Scientific Circle](https://solvro.pwr.edu.pl/)
+🙋 My name is Mikołaj. I'm a student at [Wrocław University of Science](https://pwr.edu.pl/) and Technology and Mobile Developer at [Solvro Scientific Circle](https://solvro.pwr.edu.pl/)
 
 💻 Mainly working in Kotlin, recently started with Flutter.
 
